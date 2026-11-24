@@ -1,16 +1,19 @@
-## Hi there 👋
+### สวัสดีครับ ผมชื่อ [นายพีระยุทธ อินเเจง] 👋
 
-<!--
-**phirayuta-source/phirayuta-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 ปัจจุบันกำลังพัฒนาโปรเจกต์เกี่ยวกับ **[สร้างโปรไฟล์]**  
+🌱 กำลังเรียนรู้เรื่อง **[Internet]**  
+📫 ช่องทางติดต่อ: **[phirayut.a@ku.th]**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode" />
+</p>
+
+---
+
+#### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
